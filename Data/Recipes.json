@@ -1,0 +1,17 @@
+{
+  "Recipes": [
+    {
+      "name": "Banana Pomada",
+      "aliments": [
+        {
+          "name": "Pomme",
+          "state": "Standard"
+        },
+        {
+          "name": "Banane",
+          "state": "Cooked"
+        }
+      ]
+    }
+  ]
+}

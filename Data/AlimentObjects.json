@@ -1,0 +1,32 @@
+{
+  "Aliments": [
+    {
+      "name": "Banane",
+      "prefab": "Food/Banane",
+      "nutriments": [
+        {
+          "type": "Vitamin",
+          "value": 14
+        },
+        {
+          "type": "Protein",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "name": "Pomme",
+      "prefab": "Food/pomme",
+      "nutriments": [
+        {
+          "type": "Lipid",
+          "value": 2
+        },
+        {
+          "type": "Vitamin",
+          "value": 7
+        }
+      ]
+    }
+  ]
+}

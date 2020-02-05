@@ -1,0 +1,31 @@
+{
+  "configurations": [
+    {
+      "screenSizeX": "1920",
+      "screenSizeY": "1080",
+      "screenMode": 1,
+      "FPSLimit": 60,
+      "antiAliasing": 2,
+      "shadowResolution": 0,
+      "ambientOcclusion": 0
+    },
+    {
+      "screenSizeX": "1920",
+      "screenSizeY": "1080",
+      "screenMode": 1,
+      "FPSLimit": 90,
+      "antiAliasing": 4,
+      "shadowResolution": 1,
+      "ambientOcclusion": 1
+    },
+    {
+      "screenSizeX": "1920",
+      "screenSizeY": "1080",
+      "screenMode": 1,
+      "FPSLimit": 144,
+      "antiAliasing": 8,
+      "shadowResolution": 3,
+      "ambientOcclusion": 1
+    }
+  ]
+}

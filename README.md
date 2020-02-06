@@ -12,6 +12,8 @@ This is our second year final project, made with <b>UNITY3D</b> at the school <b
 </br>It was entierly made using C# language with a team of 8 developers.
 </br>The Network use <b>Photon Engine</b> to sync gameplay and server requests are made using Mysql to get players data.
 </br></br>
+<b>Trailer</b>: https://www.youtube.com/watch?v=j5DuEUAj3ic
+</br></br>
 <b>This game was created by the following artists and programmers:</b>
 * Marine Millot https://www.linkedin.com/in/marine-millot-3a4155103/
 * Julien Françoix https://www.linkedin.com/in/julien-fran%C3%A7oix-dit-miret-231b8b195/
